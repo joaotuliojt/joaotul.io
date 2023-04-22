@@ -30,8 +30,6 @@
 🚧 this is a wip forever 🚧
 </p>
 
-[![documentation](https://github.com/biantris/braintris/actions/workflows/deploy.yml/badge.svg)](https://github.com/biantris/braintris/actions/workflows/deploy.yml)
-
 ### Getting Started
 
 - clone this repo
