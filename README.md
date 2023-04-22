@@ -1,41 +1,47 @@
-# Website
+<!--- <div align="center" id="top">
+    <img width="500" src="./static/img/img-readme.png" />
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+&#xa0;
 
-### Installation
+</div>
+-->
 
+<h1 align="center">
+🧠 braintris
+</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/joaotuliojt/joaotul.io?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/joaotuliojt/joaotul.io?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaotuliojt/joaotul.io?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/joaotuliojt/joaotul.io?color=56BEB8">
+
+  <img alt="Github issues" src="https://img.shields.io/github/issues/joaotuliojt/joaotul.io?color=56BEB8" />
+
+  <img alt="Github forks" src="https://img.shields.io/github/forks/joaotuliojt/joaotul.io?color=56BEB8" />
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/joaotuliojt/joaotul.io?color=56BEB8" />
+</p>
+
+<p align="center">
+🚧 this is a wip forever 🚧
+</p>
+
+[![documentation](https://github.com/biantris/braintris/actions/workflows/deploy.yml/badge.svg)](https://github.com/biantris/braintris/actions/workflows/deploy.yml)
+
+### Getting Started
+
+- clone this repo
+
+```sh
+> yarn
+#or
+> yarn install
+
+> yarn start
+
+Open in: http://localhost:3000
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
