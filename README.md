@@ -7,7 +7,7 @@
 -->
 
 <h1 align="center">
-🧠 braintris
+  joaotul.io
 </h1>
 
 <p align="center">
